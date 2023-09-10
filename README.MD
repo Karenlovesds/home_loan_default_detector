@@ -20,4 +20,4 @@ app.py: The main application file for the Streamlit interactive dashboard.
 requirements.txt: A list of Python dependencies required for running the project.
 README.md: The current file, providing an overview of the project.
 
-url: http://35.231.254.25
+URL: http://34.66.218.64:8501/
